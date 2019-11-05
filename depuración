@@ -1,0 +1,4 @@
+paso1=sample(2,nrow( nombre del data set ),replace = TRUE, prob = c(0.66,tamaño de muestra que desea (porcentual) ))
+paso2 = nombre del data set[paso1==2,]
+
+write.csv(paso2,"../../../../seleccionar el destino donde desea que se guarde , recordar que con tabulador se abren las rutas del sistema psoterior a poner los .../")
